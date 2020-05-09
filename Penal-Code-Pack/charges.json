@@ -1,0 +1,146 @@
+{
+    "violations":{
+		"MINOR CHARGES : MINOR MISDEMEANORS (INFRACTIONS)":[
+			"Brandishing a Firearm",
+			"Aggressive Driving",
+			"Reckless Driving",
+			"Excessive Speeding 3 (31mph - 50mph+)",
+			"Excessive Speeding 2 (16mph - 30mph)",
+			"Excessive Speeding (6mph - 15mph)",
+            "Speeding (1mph - 5mph)",
+            "Disturbing the Peace",
+			"Failure to Yield to an Emegency Vehicle",
+			"Unlawful Solicitation",
+			"Larceny",
+			"Failure to Stop",
+			"Criminal Mischief",
+			"Operating a Vehicle without a License",
+			"Operation of a Non-Street Legal Vehicle",
+			"Illegal Parking",
+			"Excessive Vehicle Noise",
+			"Driving without Proper Use of Headlights",
+			"Illegal U-turn",
+			"Jaywalking",
+			"Loitering",
+			"Public Intoxication",
+			"Failure to Yield",
+			"Indecent Exposure",
+			"Littering"
+        ]
+    },
+    "charges":{
+        "FELONY CHARGES : MURDER":[
+            "First Degree Murder",
+            "Seconds Degree Murder",
+            "Attempted Murder"
+        ],
+        "FELONY CHARGES : VIOLENT CRIMES":[
+            "Voluntary Manslaughter",
+			"Involuntary Manslaughter",
+            "Vehicular Manslaughter",
+            "Bank Robbery",
+            "Robbery",
+			"Kidnapping",
+			"Arson",
+			"Criminal Negligence (Felony)"
+        ],
+        "FELONY CHARGES : FIREARMS/EXPLOSIVES":[
+            "Weapons Distribution",
+			"Weapons Trafficking",
+			"Possession of Explosives",
+			"Possession of a Class 2 Firearm",
+			"Possession of a Class 1 Firearm",
+			"Unlawful Discharge of a Firearm"
+        ],
+        "FELONY CHARGES : NARCOTICS":[
+			"Drug Cultivation and Manufacturing",
+			"Class 2 Drug Distribution/Trafficking",
+			"Class 1 Drug Distribution/Trafficking"
+        ],
+		"FELONY CHARGES : CORRUPTION":[
+			"Corruption",
+			"Bribery",
+			"Embezzlement",
+			"Extortion",
+			"Money Laundering",
+			"Racketeering / RICO",
+            "Human Trafficking"
+        ],
+		"FELONY CHARGES : VEHICULAR RELATED":[
+			"Grand Theft Auto",
+			"Violation of a No Fly Zone",
+			"Felony Improper Operation of a Motor Vehicle",
+			"Felony Driving Under the Influence",
+			"Felony Evading Arrest"
+		],
+		"FELONY CHARGES : MISC. FELONY":[
+			"False Impersonation of a Lawyer or Government Official",
+			"Burglary",
+			"Escaping Custody",
+			"Obstruction of Justice",
+			"Perjury",
+			"Terroristic Threat",
+			"Felony Attempted Commission of an Offence/Crime",
+			"Jailbreak"
+		],
+		"MISDEMEANOR CHARGES : VEHICULAR RELATED":[
+			"Driving Under the Influence / Driving While Intoxicated (DUI/DWI)",
+			"Hit and Run",
+			"Obstructing Traffic",
+			"Evading Arrestlice",
+			"Improper Operation of a Motor Vehicle"
+		],
+		"MISDEMEANOR CHARGES : MISC. MISDEMEANOR":[
+			"Assault",
+			"Battery",
+			"Resisting Arrest",
+			"Unlawful Discharge of a Firearm",
+			"Trespassing on Restricted Government Soil",
+			"Breaking and Entering",
+            "Prostitution",
+            "Stalking",
+			"Possession of Stolen Goods",
+			"Failure to Identify",
+			"False Report",
+			"Aiding & Abetting",
+			"Conspiracy",
+			"Fleeing & Eluding",
+			"Criminal Mischief",
+			"Solicitation",
+			"Disorderly Conduct",
+			"Attempted Commission of an Offence/Crime",
+			"Criminal Negligence",
+			"Failure to Inform",
+			"Tresspassing",
+			"Poaching",
+			"Illegal Dumping"
+		],
+		"MINOR CHARGES : MINOR MISDEMEANORS (INFRACTIONS)":[
+			"Brandishing a Firearm",
+			"Aggressive Driving",
+			"Reckless Driving",
+			"Excessive Speeding 3 (31mph - 50mph+)",
+			"Excessive Speeding 2 (16mph - 30mph)",
+			"Excessive Speeding (6mph - 15mph)",
+            "Speeding (1mph - 5mph)",
+            "Disturbing the Peace",
+			"Failure to Yield to an Emegency Vehicle",
+			"Unlawful Solicitation",
+			"Larceny",
+			"Failure to Stop",
+			"Criminal Mischief",
+			"Operating a Vehicle without a License",
+			"Operation of a Non-Street Legal Vehicle",
+			"Illegal Parking",
+			"Excessive Vehicle Noise",
+			"Driving without Proper Use of Headlights",
+			"Illegal U-turn",
+			"Jaywalking",
+			"Loitering",
+			"Public Intoxication",
+			"Failure to Yield",
+			"Indecent Exposure",
+			"Littering"
+		]
+    }
+}
